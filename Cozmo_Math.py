@@ -13,7 +13,6 @@ def cozmo_program(robot:cozmo.robot.Robot):
 #    robot.say_text("subtract: " + str(5) + " AND " + str(2)).wait_for_completed()
 #    answer = cozmo_subtract(5,2,robot)
 #    robot.say_text("your subtraction answer is: " + str(answer)).wait_for_completed()
-
 # subtraction
 #    robot.say_text("subtract: " + str(5) + " AND " + str(2)).wait_for_completed()
 #   answer = cozmo_subtract(5,2,robot)
